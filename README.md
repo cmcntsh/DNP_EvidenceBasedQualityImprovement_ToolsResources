@@ -7,9 +7,9 @@
 
 ## Instructional Material and Guides
 
-* Describe the problem https://www.youtube.com/watch?v=rqGliCIzDxs
+* Describe the problem 
   * see JHEBP 5th Ed. Ch. 3
-* Develop the Problem Statement
+* Develop the Problem Statement https://youtu.be/tdxLf8IEuhc
 * Develop the EBP Question
   * Broad EBP question (formerly background questions)
   * Intervention EBP question (formerly PICO questions)
