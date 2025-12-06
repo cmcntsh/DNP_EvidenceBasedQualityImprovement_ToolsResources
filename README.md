@@ -14,3 +14,7 @@
   * Broad EBP question (formerly background questions)
   * Intervention EBP question (formerly PICO questions)
   * see JHEBP 5th Ed. Ch. 4
+ 
+## Writing
+
+* Writing clear sentences https://youtu.be/POw8UKDdaZg
