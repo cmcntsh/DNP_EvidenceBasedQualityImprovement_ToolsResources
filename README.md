@@ -18,3 +18,4 @@
 ## Writing
 
 * Writing clear sentences https://youtu.be/POw8UKDdaZg
+* Writing effective paragraphs https://youtu.be/WqR0yLl3Qa0
