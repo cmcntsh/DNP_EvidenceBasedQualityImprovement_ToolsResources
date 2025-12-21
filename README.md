@@ -4,6 +4,7 @@
 
 * Johns Hopkins Evidence-Based Practice 5th Edition https://github.com/cmcntsh/NotesJHEvidenceBasedPractice5thEdition
 * SQuIRE 2.0 https://www.squire-statement.org/index.cfm
+* APA Style Blog https://apastyle.apa.org/
 
 ## Instructional Material and Guides
 
