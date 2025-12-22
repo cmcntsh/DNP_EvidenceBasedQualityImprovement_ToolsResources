@@ -16,6 +16,7 @@
   * Intervention EBP question (formerly PICO questions)
   * see JHEBP 5th Ed. Ch. 4
 * Demo - article retrieval (off-campus access), scite.ai, Zotero: collections, notes, import citations, link attachments https://youtu.be/kOoYRNMEbDo
+* SQUiRE 2.0 Purpose Overview https://youtu.be/uCx6aKPndnM
  
 ## LLM Prompts
 
