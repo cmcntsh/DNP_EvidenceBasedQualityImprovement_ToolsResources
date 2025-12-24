@@ -32,6 +32,8 @@ Prompt: Get suggestions for key terms and literature searches to address in the 
 I'm writing a paper following the SQuIRE 2.0 guidelines about a healthcare evidence-based practice quality improvement project. I'll supply a problem description. Please suggest a list of important terms and concepts I should define using authoritative sources in the Available Knowledge section. Please also suggest the type of literature I should search for to synthesize in the available knowledge section. Please suggest appropriate databases to search and search terms for each database you suggest. Here is the problem description: "<Paste problem description here.>"
 ```
 
+Prompt: Get suggestions for EBP questions from a problem description https://github.com/cmcntsh/NotesJHEvidenceBasedPractice5thEdition/blob/main/README.md#chapter-4-practice-question-phase-the-ebp-question
+
 ## Writing
 
 * Writing clear sentences https://youtu.be/POw8UKDdaZg
