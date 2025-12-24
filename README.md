@@ -21,7 +21,7 @@
 * Writing for Graduate Students - Prewriting https://youtu.be/rlqDoUZGySg
 * Writing for Graduate Students - Writing https://youtu.be/q1_r0EqSYVY
 * Writing for Graduate Students - Writing Theory https://youtu.be/bwKqzt6kAjg
-* Writing for Graudate Students - Reverse Outlining https://youtu.be/EGvQtYsvxEU
+* Writing for Graduate Students - Reverse Outlining https://youtu.be/EGvQtYsvxEU
 * Writing for Graduate Students - AI Tools for Writing Analysis https://youtu.be/18hDwXHsFAA
  
 ## LLM Prompts
