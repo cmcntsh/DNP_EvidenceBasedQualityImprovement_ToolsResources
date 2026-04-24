@@ -5,6 +5,7 @@
 * Johns Hopkins Evidence-Based Practice 5th Edition https://github.com/cmcntsh/NotesJHEvidenceBasedPractice5thEdition
 * SQuIRE 2.0 https://www.squire-statement.org/index.cfm
 * APA Style Blog https://apastyle.apa.org/
+* U of U DNP Handbook (describes project requirements)
 
 ## Instructional Material and Guides
 
@@ -34,6 +35,15 @@ I'm writing a paper following the SQuIRE 2.0 guidelines about a healthcare evide
 ```
 
 Prompt: Get suggestions for EBP questions from a problem description https://github.com/cmcntsh/NotesJHEvidenceBasedPractice5thEdition/blob/main/README.md#chapter-4-practice-question-phase-the-ebp-question
+
+Prompt: Evaluate project ideas according to DNP Handbook guidelines
+
+```
+I need to select a project to fulfill the requirements of a DNP scholarly project. The requirements are outlined in the DNP Handbook. The first step in selecting a project is to ensure it falls into one of the accepted categories listed on pages 3 and 4 of the DNP Handbook (EBQI project, Program Evaluation, Policy, or Innovative Health System Design). I'm going to describe a project idea. Please categorize it as the DNP project that best matches it. Please provide your rationale for your classification. Please quote relevant passages from the DNP Handbook that support your rationale and provide the page number for the quote. Please suggest ideas of how the project could be modified to make it a better fit for one of the accepted project categories. Ask questions if you need additional information to understand the project well enough to make the classification.
+
+My first idea is [describe your idea here].
+
+```
 
 ## Writing
 
